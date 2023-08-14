@@ -47,7 +47,7 @@ local Toggle = Instance.new("TextButton")
 
 CyanHubGLEWPQ.Name = "CyanHubGLEWPQ"
 CyanHubGLEWPQ.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-CyanHubGLEWPQ.Enabled = false
+CyanHubGLEWPQ.Enabled = true
 CyanHubGLEWPQ.ResetOnSpawn = false
 
 Frame.Parent = CyanHubGLEWPQ
